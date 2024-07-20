@@ -2,7 +2,7 @@
 assignment number : 8
 File name : 		Course.java
 Name : 				Daniel Eliyahu
-ID : 				316461656
+ID : 				
 Email : 			danieliyahu1@gmail.com
 */
 
