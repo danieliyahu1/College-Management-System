@@ -30,4 +30,4 @@ This project focuses on building a College Management System in Java. It uses ob
 
 - **Control:**
     - College: Manages the overall college system, including courses, students, and reports.
-    - CollegeDemo (not submitted): Used for testing and demonstration purposes.
+    - CollegeDemo: Used for testing and demonstration purposes.
